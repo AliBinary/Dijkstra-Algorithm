@@ -1,6 +1,6 @@
 # Dijkstra's Algorithm
 
-# کد الگوریتم دایجسترا در پایتون;
+# کد الگوریتم دایجسترا در پایتون
 
 #### 1_ پیاده سازی الگوریتم دایجسترا با آرایه
 [مشاهده فایل Dijkstra by array.py](https://github.com/AliBinary/Dijkstra-Algorithm/blob/main/Dijkstra%20by%20array.py)
